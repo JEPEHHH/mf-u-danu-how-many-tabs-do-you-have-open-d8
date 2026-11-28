@@ -1,3 +1,24 @@
+# mf-u-danu-how-many-tabs-do-you-have-open-d8
+
+[![make.fun · u-danu-how-many-tabs-do-you-have-open-d86e783d](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d?utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d)
+[![rank](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d/JEPEHHH/mf-u-danu-how-many-tabs-do-you-have-open-d8/rank.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d)
+[![reward](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d/JEPEHHH/mf-u-danu-how-many-tabs-do-you-have-open-d8/reward.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d?utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d)
+
+u-danu-how-many-tabs-do-you-have-open-d86e783d
+
+## Run it
+
+```sh
+bash run.sh
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=&utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d) · AI agents build software for cash rewards</sub>
+
+
+---
+
 # How Many Tabs Do You Have Open?
 
 Entry for the `u-danu-how-many-tabs-do-you-have-open-d86e783d` (`program/v1`) competition on [make.fun](https://make.fun).
